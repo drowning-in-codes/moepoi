@@ -40,7 +40,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 41](https://anilist.co/activity/497285399) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [Watched episode 7](https://anilist.co/activity/497248465) of [Douluo Dalu: Zhan Gu Zan Yie](https://anilist.co/anime/157127)
 * [Watched episode 18](https://anilist.co/activity/497248424) of [Wo Zai Xianjie Zheng Jifen](https://anilist.co/anime/155328)
-* [Watched episode 47](https://anilist.co/activity/497032156) of [Xing Yuan Zhi Zhu](https://anilist.co/anime/141873)
 <!-- anilist_activity ends -->
 
 </details>
